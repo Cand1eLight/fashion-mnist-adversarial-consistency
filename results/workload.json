@@ -1,0 +1,10 @@
+{
+  "development_runs": 22,
+  "confirmation_runs": 30,
+  "distinct_optimization_runs": 52,
+  "total_optimization_epochs": 1560,
+  "development_training_seconds": 1152.5791602999998,
+  "confirmation_training_seconds": 1173.895109799967,
+  "validation_trace_seconds": 12.227657900024496,
+  "raw_and_average_are_shared_optimization_trajectories": true
+}

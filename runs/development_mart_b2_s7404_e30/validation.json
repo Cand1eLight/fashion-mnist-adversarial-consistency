@@ -1,0 +1,13 @@
+{
+  "n": 5000,
+  "clean_correct": 4091,
+  "robust_correct": 3362,
+  "clean_accuracy": 0.8181999921798706,
+  "pgd_accuracy": 0.6723999977111816,
+  "attack_seed": 19001,
+  "steps": 20,
+  "alpha": 0.01,
+  "epsilon": 0.1,
+  "restarts": 1,
+  "keep_best": false
+}

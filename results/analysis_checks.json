@@ -1,0 +1,7 @@
+{
+  "full_example_counts_match": true,
+  "all_test_classes_have_1000_examples": true,
+  "displayed_attacks_match_saved_predictions": true,
+  "case_selection": "First test index per declared outcome category, seed 7411",
+  "confidence_interval": "Paired Student t interval over five training seeds; df=4"
+}

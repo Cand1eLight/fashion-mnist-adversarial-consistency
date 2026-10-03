@@ -1,0 +1,602 @@
+[
+  {
+    "method": "standard",
+    "seed": 7411,
+    "epsilon": 0.0,
+    "accuracy": 0.8952,
+    "correct": 8952,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7411,
+    "epsilon": 0.05,
+    "accuracy": 0.2101,
+    "correct": 2101,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7411,
+    "epsilon": 0.1,
+    "accuracy": 0.0066,
+    "correct": 66,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7411,
+    "epsilon": 0.15,
+    "accuracy": 0.0001,
+    "correct": 1,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7411,
+    "epsilon": 0.2,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7411,
+    "epsilon": 0.0,
+    "accuracy": 0.8213,
+    "correct": 8213,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7411,
+    "epsilon": 0.05,
+    "accuracy": 0.7595,
+    "correct": 7595,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7411,
+    "epsilon": 0.1,
+    "accuracy": 0.6658,
+    "correct": 6658,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7411,
+    "epsilon": 0.15,
+    "accuracy": 0.5305,
+    "correct": 5305,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7411,
+    "epsilon": 0.2,
+    "accuracy": 0.2894,
+    "correct": 2894,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7411,
+    "epsilon": 0.0,
+    "accuracy": 0.8324,
+    "correct": 8324,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7411,
+    "epsilon": 0.05,
+    "accuracy": 0.7672,
+    "correct": 7672,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7411,
+    "epsilon": 0.1,
+    "accuracy": 0.6744,
+    "correct": 6744,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7411,
+    "epsilon": 0.15,
+    "accuracy": 0.5294,
+    "correct": 5294,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7411,
+    "epsilon": 0.2,
+    "accuracy": 0.284,
+    "correct": 2840,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7412,
+    "epsilon": 0.0,
+    "accuracy": 0.822,
+    "correct": 8220,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7412,
+    "epsilon": 0.05,
+    "accuracy": 0.7605,
+    "correct": 7605,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7412,
+    "epsilon": 0.1,
+    "accuracy": 0.6652,
+    "correct": 6652,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7412,
+    "epsilon": 0.15,
+    "accuracy": 0.5265,
+    "correct": 5265,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7412,
+    "epsilon": 0.2,
+    "accuracy": 0.2905,
+    "correct": 2905,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7412,
+    "epsilon": 0.0,
+    "accuracy": 0.833,
+    "correct": 8330,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7412,
+    "epsilon": 0.05,
+    "accuracy": 0.7681,
+    "correct": 7681,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7412,
+    "epsilon": 0.1,
+    "accuracy": 0.6761,
+    "correct": 6761,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7412,
+    "epsilon": 0.15,
+    "accuracy": 0.5261,
+    "correct": 5261,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7412,
+    "epsilon": 0.2,
+    "accuracy": 0.2793,
+    "correct": 2793,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7412,
+    "epsilon": 0.0,
+    "accuracy": 0.8944,
+    "correct": 8944,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7412,
+    "epsilon": 0.05,
+    "accuracy": 0.2097,
+    "correct": 2097,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7412,
+    "epsilon": 0.1,
+    "accuracy": 0.008,
+    "correct": 80,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7412,
+    "epsilon": 0.15,
+    "accuracy": 0.0002,
+    "correct": 2,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7412,
+    "epsilon": 0.2,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7413,
+    "epsilon": 0.0,
+    "accuracy": 0.8345,
+    "correct": 8345,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7413,
+    "epsilon": 0.05,
+    "accuracy": 0.769,
+    "correct": 7690,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7413,
+    "epsilon": 0.1,
+    "accuracy": 0.6786,
+    "correct": 6786,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7413,
+    "epsilon": 0.15,
+    "accuracy": 0.5244,
+    "correct": 5244,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7413,
+    "epsilon": 0.2,
+    "accuracy": 0.2726,
+    "correct": 2726,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7413,
+    "epsilon": 0.0,
+    "accuracy": 0.8961,
+    "correct": 8961,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7413,
+    "epsilon": 0.05,
+    "accuracy": 0.2258,
+    "correct": 2258,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7413,
+    "epsilon": 0.1,
+    "accuracy": 0.016,
+    "correct": 160,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7413,
+    "epsilon": 0.15,
+    "accuracy": 0.0007,
+    "correct": 7,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7413,
+    "epsilon": 0.2,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7413,
+    "epsilon": 0.0,
+    "accuracy": 0.8189,
+    "correct": 8189,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7413,
+    "epsilon": 0.05,
+    "accuracy": 0.7571,
+    "correct": 7571,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7413,
+    "epsilon": 0.1,
+    "accuracy": 0.6666,
+    "correct": 6666,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7413,
+    "epsilon": 0.15,
+    "accuracy": 0.5334,
+    "correct": 5334,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7413,
+    "epsilon": 0.2,
+    "accuracy": 0.2901,
+    "correct": 2901,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7414,
+    "epsilon": 0.0,
+    "accuracy": 0.8324,
+    "correct": 8324,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7414,
+    "epsilon": 0.05,
+    "accuracy": 0.7684,
+    "correct": 7684,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7414,
+    "epsilon": 0.1,
+    "accuracy": 0.6786,
+    "correct": 6786,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7414,
+    "epsilon": 0.15,
+    "accuracy": 0.523,
+    "correct": 5230,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7414,
+    "epsilon": 0.2,
+    "accuracy": 0.2806,
+    "correct": 2806,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7414,
+    "epsilon": 0.0,
+    "accuracy": 0.8943,
+    "correct": 8943,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7414,
+    "epsilon": 0.05,
+    "accuracy": 0.2089,
+    "correct": 2089,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7414,
+    "epsilon": 0.1,
+    "accuracy": 0.0061,
+    "correct": 61,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7414,
+    "epsilon": 0.15,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7414,
+    "epsilon": 0.2,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7414,
+    "epsilon": 0.0,
+    "accuracy": 0.8191,
+    "correct": 8191,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7414,
+    "epsilon": 0.05,
+    "accuracy": 0.7616,
+    "correct": 7616,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7414,
+    "epsilon": 0.1,
+    "accuracy": 0.6693,
+    "correct": 6693,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7414,
+    "epsilon": 0.15,
+    "accuracy": 0.5271,
+    "correct": 5271,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7414,
+    "epsilon": 0.2,
+    "accuracy": 0.2855,
+    "correct": 2855,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7415,
+    "epsilon": 0.0,
+    "accuracy": 0.8308,
+    "correct": 8308,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7415,
+    "epsilon": 0.05,
+    "accuracy": 0.7698,
+    "correct": 7698,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7415,
+    "epsilon": 0.1,
+    "accuracy": 0.6758,
+    "correct": 6758,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7415,
+    "epsilon": 0.15,
+    "accuracy": 0.5323,
+    "correct": 5323,
+    "n": 10000
+  },
+  {
+    "method": "proposed",
+    "seed": 7415,
+    "epsilon": 0.2,
+    "accuracy": 0.2878,
+    "correct": 2878,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7415,
+    "epsilon": 0.0,
+    "accuracy": 0.8927,
+    "correct": 8927,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7415,
+    "epsilon": 0.05,
+    "accuracy": 0.2175,
+    "correct": 2175,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7415,
+    "epsilon": 0.1,
+    "accuracy": 0.0113,
+    "correct": 113,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7415,
+    "epsilon": 0.15,
+    "accuracy": 0.0001,
+    "correct": 1,
+    "n": 10000
+  },
+  {
+    "method": "standard",
+    "seed": 7415,
+    "epsilon": 0.2,
+    "accuracy": 0.0,
+    "correct": 0,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7415,
+    "epsilon": 0.0,
+    "accuracy": 0.8204,
+    "correct": 8204,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7415,
+    "epsilon": 0.05,
+    "accuracy": 0.7581,
+    "correct": 7581,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7415,
+    "epsilon": 0.1,
+    "accuracy": 0.6631,
+    "correct": 6631,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7415,
+    "epsilon": 0.15,
+    "accuracy": 0.5256,
+    "correct": 5256,
+    "n": 10000
+  },
+  {
+    "method": "pgd",
+    "seed": 7415,
+    "epsilon": 0.2,
+    "accuracy": 0.2905,
+    "correct": 2905,
+    "n": 10000
+  }
+]

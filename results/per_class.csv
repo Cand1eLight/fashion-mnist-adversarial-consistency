@@ -1,0 +1,501 @@
+method,version,seed,class_id,class,n,clean_accuracy,robust_accuracy
+standard,raw,7411,0,T-shirt/top,1000,0.841,0.0
+standard,raw,7411,1,Trouser,1000,0.971,0.001
+standard,raw,7411,2,Pullover,1000,0.819,0.0
+standard,raw,7411,3,Dress,1000,0.912,0.001
+standard,raw,7411,4,Coat,1000,0.811,0.0
+standard,raw,7411,5,Sandal,1000,0.966,0.007
+standard,raw,7411,6,Shirt,1000,0.741,0.0
+standard,raw,7411,7,Sneaker,1000,0.963,0.0
+standard,raw,7411,8,Bag,1000,0.97,0.046
+standard,raw,7411,9,Ankle boot,1000,0.958,0.023
+pgd,raw,7411,0,T-shirt/top,1000,0.864,0.68
+pgd,raw,7411,1,Trouser,1000,0.96,0.905
+pgd,raw,7411,2,Pullover,1000,0.665,0.483
+pgd,raw,7411,3,Dress,1000,0.911,0.713
+pgd,raw,7411,4,Coat,1000,0.798,0.533
+pgd,raw,7411,5,Sandal,1000,0.909,0.782
+pgd,raw,7411,6,Shirt,1000,0.324,0.113
+pgd,raw,7411,7,Sneaker,1000,0.883,0.737
+pgd,raw,7411,8,Bag,1000,0.961,0.878
+pgd,raw,7411,9,Ankle boot,1000,0.938,0.869
+mixed,raw,7411,0,T-shirt/top,1000,0.864,0.668
+mixed,raw,7411,1,Trouser,1000,0.966,0.913
+mixed,raw,7411,2,Pullover,1000,0.701,0.483
+mixed,raw,7411,3,Dress,1000,0.909,0.701
+mixed,raw,7411,4,Coat,1000,0.782,0.519
+mixed,raw,7411,5,Sandal,1000,0.922,0.762
+mixed,raw,7411,6,Shirt,1000,0.411,0.214
+mixed,raw,7411,7,Sneaker,1000,0.899,0.746
+mixed,raw,7411,8,Bag,1000,0.964,0.871
+mixed,raw,7411,9,Ankle boot,1000,0.945,0.867
+mixed,average,7411,0,T-shirt/top,1000,0.865,0.668
+mixed,average,7411,1,Trouser,1000,0.967,0.917
+mixed,average,7411,2,Pullover,1000,0.694,0.477
+mixed,average,7411,3,Dress,1000,0.908,0.685
+mixed,average,7411,4,Coat,1000,0.792,0.535
+mixed,average,7411,5,Sandal,1000,0.921,0.758
+mixed,average,7411,6,Shirt,1000,0.4,0.203
+mixed,average,7411,7,Sneaker,1000,0.902,0.757
+mixed,average,7411,8,Bag,1000,0.964,0.877
+mixed,average,7411,9,Ankle boot,1000,0.939,0.866
+curriculum_mixed,raw,7411,0,T-shirt/top,1000,0.873,0.67
+curriculum_mixed,raw,7411,1,Trouser,1000,0.968,0.911
+curriculum_mixed,raw,7411,2,Pullover,1000,0.719,0.476
+curriculum_mixed,raw,7411,3,Dress,1000,0.908,0.697
+curriculum_mixed,raw,7411,4,Coat,1000,0.79,0.532
+curriculum_mixed,raw,7411,5,Sandal,1000,0.921,0.761
+curriculum_mixed,raw,7411,6,Shirt,1000,0.421,0.212
+curriculum_mixed,raw,7411,7,Sneaker,1000,0.899,0.732
+curriculum_mixed,raw,7411,8,Bag,1000,0.97,0.871
+curriculum_mixed,raw,7411,9,Ankle boot,1000,0.945,0.864
+curriculum_mixed,average,7411,0,T-shirt/top,1000,0.874,0.668
+curriculum_mixed,average,7411,1,Trouser,1000,0.97,0.911
+curriculum_mixed,average,7411,2,Pullover,1000,0.713,0.476
+curriculum_mixed,average,7411,3,Dress,1000,0.905,0.689
+curriculum_mixed,average,7411,4,Coat,1000,0.803,0.539
+curriculum_mixed,average,7411,5,Sandal,1000,0.921,0.753
+curriculum_mixed,average,7411,6,Shirt,1000,0.407,0.193
+curriculum_mixed,average,7411,7,Sneaker,1000,0.903,0.741
+curriculum_mixed,average,7411,8,Bag,1000,0.97,0.885
+curriculum_mixed,average,7411,9,Ankle boot,1000,0.941,0.86
+consistency,raw,7411,0,T-shirt/top,1000,0.839,0.668
+consistency,raw,7411,1,Trouser,1000,0.962,0.915
+consistency,raw,7411,2,Pullover,1000,0.692,0.482
+consistency,raw,7411,3,Dress,1000,0.91,0.716
+consistency,raw,7411,4,Coat,1000,0.78,0.524
+consistency,raw,7411,5,Sandal,1000,0.911,0.783
+consistency,raw,7411,6,Shirt,1000,0.387,0.193
+consistency,raw,7411,7,Sneaker,1000,0.891,0.739
+consistency,raw,7411,8,Bag,1000,0.959,0.871
+consistency,raw,7411,9,Ankle boot,1000,0.938,0.871
+consistency,average,7411,0,T-shirt/top,1000,0.846,0.674
+consistency,average,7411,1,Trouser,1000,0.963,0.919
+consistency,average,7411,2,Pullover,1000,0.691,0.479
+consistency,average,7411,3,Dress,1000,0.907,0.711
+consistency,average,7411,4,Coat,1000,0.783,0.532
+consistency,average,7411,5,Sandal,1000,0.91,0.776
+consistency,average,7411,6,Shirt,1000,0.382,0.179
+consistency,average,7411,7,Sneaker,1000,0.894,0.745
+consistency,average,7411,8,Bag,1000,0.963,0.878
+consistency,average,7411,9,Ankle boot,1000,0.933,0.867
+proposed,raw,7411,0,T-shirt/top,1000,0.851,0.668
+proposed,raw,7411,1,Trouser,1000,0.963,0.917
+proposed,raw,7411,2,Pullover,1000,0.703,0.486
+proposed,raw,7411,3,Dress,1000,0.911,0.719
+proposed,raw,7411,4,Coat,1000,0.783,0.527
+proposed,raw,7411,5,Sandal,1000,0.911,0.781
+proposed,raw,7411,6,Shirt,1000,0.417,0.212
+proposed,raw,7411,7,Sneaker,1000,0.889,0.737
+proposed,raw,7411,8,Bag,1000,0.962,0.872
+proposed,raw,7411,9,Ankle boot,1000,0.936,0.869
+proposed,average,7411,0,T-shirt/top,1000,0.854,0.671
+proposed,average,7411,1,Trouser,1000,0.963,0.919
+proposed,average,7411,2,Pullover,1000,0.699,0.489
+proposed,average,7411,3,Dress,1000,0.911,0.709
+proposed,average,7411,4,Coat,1000,0.791,0.537
+proposed,average,7411,5,Sandal,1000,0.909,0.772
+proposed,average,7411,6,Shirt,1000,0.401,0.195
+proposed,average,7411,7,Sneaker,1000,0.897,0.75
+proposed,average,7411,8,Bag,1000,0.963,0.882
+proposed,average,7411,9,Ankle boot,1000,0.936,0.868
+pgd,raw,7412,0,T-shirt/top,1000,0.856,0.671
+pgd,raw,7412,1,Trouser,1000,0.964,0.908
+pgd,raw,7412,2,Pullover,1000,0.673,0.484
+pgd,raw,7412,3,Dress,1000,0.909,0.697
+pgd,raw,7412,4,Coat,1000,0.79,0.538
+pgd,raw,7412,5,Sandal,1000,0.903,0.775
+pgd,raw,7412,6,Shirt,1000,0.339,0.14
+pgd,raw,7412,7,Sneaker,1000,0.898,0.749
+pgd,raw,7412,8,Bag,1000,0.952,0.863
+pgd,raw,7412,9,Ankle boot,1000,0.936,0.864
+mixed,raw,7412,0,T-shirt/top,1000,0.869,0.667
+mixed,raw,7412,1,Trouser,1000,0.97,0.919
+mixed,raw,7412,2,Pullover,1000,0.71,0.494
+mixed,raw,7412,3,Dress,1000,0.908,0.688
+mixed,raw,7412,4,Coat,1000,0.795,0.536
+mixed,raw,7412,5,Sandal,1000,0.929,0.777
+mixed,raw,7412,6,Shirt,1000,0.402,0.213
+mixed,raw,7412,7,Sneaker,1000,0.903,0.749
+mixed,raw,7412,8,Bag,1000,0.968,0.876
+mixed,raw,7412,9,Ankle boot,1000,0.936,0.858
+mixed,average,7412,0,T-shirt/top,1000,0.869,0.671
+mixed,average,7412,1,Trouser,1000,0.969,0.918
+mixed,average,7412,2,Pullover,1000,0.708,0.486
+mixed,average,7412,3,Dress,1000,0.91,0.696
+mixed,average,7412,4,Coat,1000,0.799,0.539
+mixed,average,7412,5,Sandal,1000,0.926,0.769
+mixed,average,7412,6,Shirt,1000,0.386,0.198
+mixed,average,7412,7,Sneaker,1000,0.907,0.758
+mixed,average,7412,8,Bag,1000,0.968,0.875
+mixed,average,7412,9,Ankle boot,1000,0.936,0.851
+curriculum_mixed,raw,7412,0,T-shirt/top,1000,0.878,0.684
+curriculum_mixed,raw,7412,1,Trouser,1000,0.971,0.915
+curriculum_mixed,raw,7412,2,Pullover,1000,0.717,0.477
+curriculum_mixed,raw,7412,3,Dress,1000,0.908,0.684
+curriculum_mixed,raw,7412,4,Coat,1000,0.789,0.547
+curriculum_mixed,raw,7412,5,Sandal,1000,0.931,0.764
+curriculum_mixed,raw,7412,6,Shirt,1000,0.406,0.212
+curriculum_mixed,raw,7412,7,Sneaker,1000,0.906,0.732
+curriculum_mixed,raw,7412,8,Bag,1000,0.972,0.875
+curriculum_mixed,raw,7412,9,Ankle boot,1000,0.942,0.849
+curriculum_mixed,average,7412,0,T-shirt/top,1000,0.876,0.683
+curriculum_mixed,average,7412,1,Trouser,1000,0.971,0.914
+curriculum_mixed,average,7412,2,Pullover,1000,0.713,0.476
+curriculum_mixed,average,7412,3,Dress,1000,0.91,0.688
+curriculum_mixed,average,7412,4,Coat,1000,0.794,0.548
+curriculum_mixed,average,7412,5,Sandal,1000,0.931,0.76
+curriculum_mixed,average,7412,6,Shirt,1000,0.397,0.2
+curriculum_mixed,average,7412,7,Sneaker,1000,0.907,0.739
+curriculum_mixed,average,7412,8,Bag,1000,0.971,0.876
+curriculum_mixed,average,7412,9,Ankle boot,1000,0.938,0.849
+consistency,raw,7412,0,T-shirt/top,1000,0.856,0.668
+consistency,raw,7412,1,Trouser,1000,0.965,0.916
+consistency,raw,7412,2,Pullover,1000,0.705,0.496
+consistency,raw,7412,3,Dress,1000,0.907,0.708
+consistency,raw,7412,4,Coat,1000,0.779,0.527
+consistency,raw,7412,5,Sandal,1000,0.912,0.793
+consistency,raw,7412,6,Shirt,1000,0.385,0.2
+consistency,raw,7412,7,Sneaker,1000,0.893,0.743
+consistency,raw,7412,8,Bag,1000,0.96,0.877
+consistency,raw,7412,9,Ankle boot,1000,0.934,0.858
+consistency,average,7412,0,T-shirt/top,1000,0.86,0.67
+consistency,average,7412,1,Trouser,1000,0.965,0.914
+consistency,average,7412,2,Pullover,1000,0.702,0.494
+consistency,average,7412,3,Dress,1000,0.908,0.709
+consistency,average,7412,4,Coat,1000,0.788,0.534
+consistency,average,7412,5,Sandal,1000,0.909,0.79
+consistency,average,7412,6,Shirt,1000,0.377,0.174
+consistency,average,7412,7,Sneaker,1000,0.897,0.75
+consistency,average,7412,8,Bag,1000,0.96,0.879
+consistency,average,7412,9,Ankle boot,1000,0.931,0.856
+proposed,raw,7412,0,T-shirt/top,1000,0.86,0.681
+proposed,raw,7412,1,Trouser,1000,0.966,0.917
+proposed,raw,7412,2,Pullover,1000,0.706,0.495
+proposed,raw,7412,3,Dress,1000,0.909,0.715
+proposed,raw,7412,4,Coat,1000,0.783,0.542
+proposed,raw,7412,5,Sandal,1000,0.919,0.773
+proposed,raw,7412,6,Shirt,1000,0.403,0.219
+proposed,raw,7412,7,Sneaker,1000,0.894,0.746
+proposed,raw,7412,8,Bag,1000,0.964,0.88
+proposed,raw,7412,9,Ankle boot,1000,0.932,0.863
+proposed,average,7412,0,T-shirt/top,1000,0.859,0.675
+proposed,average,7412,1,Trouser,1000,0.966,0.916
+proposed,average,7412,2,Pullover,1000,0.702,0.491
+proposed,average,7412,3,Dress,1000,0.91,0.719
+proposed,average,7412,4,Coat,1000,0.792,0.542
+proposed,average,7412,5,Sandal,1000,0.916,0.772
+proposed,average,7412,6,Shirt,1000,0.398,0.206
+proposed,average,7412,7,Sneaker,1000,0.894,0.747
+proposed,average,7412,8,Bag,1000,0.963,0.879
+proposed,average,7412,9,Ankle boot,1000,0.93,0.858
+standard,raw,7412,0,T-shirt/top,1000,0.859,0.0
+standard,raw,7412,1,Trouser,1000,0.973,0.0
+standard,raw,7412,2,Pullover,1000,0.833,0.0
+standard,raw,7412,3,Dress,1000,0.897,0.0
+standard,raw,7412,4,Coat,1000,0.827,0.0
+standard,raw,7412,5,Sandal,1000,0.969,0.004
+standard,raw,7412,6,Shirt,1000,0.699,0.0
+standard,raw,7412,7,Sneaker,1000,0.962,0.0
+standard,raw,7412,8,Bag,1000,0.968,0.047
+standard,raw,7412,9,Ankle boot,1000,0.957,0.042
+mixed,raw,7413,0,T-shirt/top,1000,0.87,0.677
+mixed,raw,7413,1,Trouser,1000,0.969,0.915
+mixed,raw,7413,2,Pullover,1000,0.693,0.481
+mixed,raw,7413,3,Dress,1000,0.91,0.686
+mixed,raw,7413,4,Coat,1000,0.788,0.544
+mixed,raw,7413,5,Sandal,1000,0.927,0.766
+mixed,raw,7413,6,Shirt,1000,0.404,0.219
+mixed,raw,7413,7,Sneaker,1000,0.907,0.754
+mixed,raw,7413,8,Bag,1000,0.965,0.872
+mixed,raw,7413,9,Ankle boot,1000,0.941,0.859
+mixed,average,7413,0,T-shirt/top,1000,0.87,0.678
+mixed,average,7413,1,Trouser,1000,0.968,0.915
+mixed,average,7413,2,Pullover,1000,0.685,0.473
+mixed,average,7413,3,Dress,1000,0.909,0.684
+mixed,average,7413,4,Coat,1000,0.807,0.56
+mixed,average,7413,5,Sandal,1000,0.927,0.765
+mixed,average,7413,6,Shirt,1000,0.397,0.206
+mixed,average,7413,7,Sneaker,1000,0.904,0.748
+mixed,average,7413,8,Bag,1000,0.968,0.878
+mixed,average,7413,9,Ankle boot,1000,0.945,0.86
+curriculum_mixed,raw,7413,0,T-shirt/top,1000,0.883,0.683
+curriculum_mixed,raw,7413,1,Trouser,1000,0.968,0.91
+curriculum_mixed,raw,7413,2,Pullover,1000,0.71,0.479
+curriculum_mixed,raw,7413,3,Dress,1000,0.904,0.692
+curriculum_mixed,raw,7413,4,Coat,1000,0.794,0.534
+curriculum_mixed,raw,7413,5,Sandal,1000,0.922,0.758
+curriculum_mixed,raw,7413,6,Shirt,1000,0.411,0.221
+curriculum_mixed,raw,7413,7,Sneaker,1000,0.907,0.741
+curriculum_mixed,raw,7413,8,Bag,1000,0.968,0.88
+curriculum_mixed,raw,7413,9,Ankle boot,1000,0.941,0.855
+curriculum_mixed,average,7413,0,T-shirt/top,1000,0.882,0.685
+curriculum_mixed,average,7413,1,Trouser,1000,0.967,0.909
+curriculum_mixed,average,7413,2,Pullover,1000,0.706,0.475
+curriculum_mixed,average,7413,3,Dress,1000,0.904,0.693
+curriculum_mixed,average,7413,4,Coat,1000,0.808,0.549
+curriculum_mixed,average,7413,5,Sandal,1000,0.921,0.751
+curriculum_mixed,average,7413,6,Shirt,1000,0.407,0.215
+curriculum_mixed,average,7413,7,Sneaker,1000,0.904,0.739
+curriculum_mixed,average,7413,8,Bag,1000,0.969,0.885
+curriculum_mixed,average,7413,9,Ankle boot,1000,0.947,0.857
+consistency,raw,7413,0,T-shirt/top,1000,0.859,0.689
+consistency,raw,7413,1,Trouser,1000,0.967,0.918
+consistency,raw,7413,2,Pullover,1000,0.687,0.481
+consistency,raw,7413,3,Dress,1000,0.903,0.711
+consistency,raw,7413,4,Coat,1000,0.778,0.547
+consistency,raw,7413,5,Sandal,1000,0.907,0.778
+consistency,raw,7413,6,Shirt,1000,0.375,0.217
+consistency,raw,7413,7,Sneaker,1000,0.894,0.748
+consistency,raw,7413,8,Bag,1000,0.959,0.875
+consistency,raw,7413,9,Ankle boot,1000,0.936,0.862
+consistency,average,7413,0,T-shirt/top,1000,0.855,0.686
+consistency,average,7413,1,Trouser,1000,0.966,0.918
+consistency,average,7413,2,Pullover,1000,0.678,0.478
+consistency,average,7413,3,Dress,1000,0.902,0.708
+consistency,average,7413,4,Coat,1000,0.791,0.564
+consistency,average,7413,5,Sandal,1000,0.906,0.775
+consistency,average,7413,6,Shirt,1000,0.371,0.207
+consistency,average,7413,7,Sneaker,1000,0.891,0.746
+consistency,average,7413,8,Bag,1000,0.961,0.878
+consistency,average,7413,9,Ankle boot,1000,0.937,0.865
+proposed,raw,7413,0,T-shirt/top,1000,0.86,0.673
+proposed,raw,7413,1,Trouser,1000,0.964,0.917
+proposed,raw,7413,2,Pullover,1000,0.701,0.49
+proposed,raw,7413,3,Dress,1000,0.91,0.72
+proposed,raw,7413,4,Coat,1000,0.782,0.532
+proposed,raw,7413,5,Sandal,1000,0.911,0.784
+proposed,raw,7413,6,Shirt,1000,0.415,0.235
+proposed,raw,7413,7,Sneaker,1000,0.896,0.743
+proposed,raw,7413,8,Bag,1000,0.966,0.882
+proposed,raw,7413,9,Ankle boot,1000,0.932,0.859
+proposed,average,7413,0,T-shirt/top,1000,0.856,0.674
+proposed,average,7413,1,Trouser,1000,0.963,0.917
+proposed,average,7413,2,Pullover,1000,0.696,0.478
+proposed,average,7413,3,Dress,1000,0.909,0.717
+proposed,average,7413,4,Coat,1000,0.794,0.546
+proposed,average,7413,5,Sandal,1000,0.91,0.778
+proposed,average,7413,6,Shirt,1000,0.418,0.217
+proposed,average,7413,7,Sneaker,1000,0.895,0.741
+proposed,average,7413,8,Bag,1000,0.968,0.885
+proposed,average,7413,9,Ankle boot,1000,0.936,0.865
+standard,raw,7413,0,T-shirt/top,1000,0.863,0.0
+standard,raw,7413,1,Trouser,1000,0.975,0.078
+standard,raw,7413,2,Pullover,1000,0.818,0.0
+standard,raw,7413,3,Dress,1000,0.905,0.0
+standard,raw,7413,4,Coat,1000,0.835,0.0
+standard,raw,7413,5,Sandal,1000,0.962,0.003
+standard,raw,7413,6,Shirt,1000,0.714,0.0
+standard,raw,7413,7,Sneaker,1000,0.967,0.0
+standard,raw,7413,8,Bag,1000,0.967,0.048
+standard,raw,7413,9,Ankle boot,1000,0.955,0.038
+pgd,raw,7413,0,T-shirt/top,1000,0.858,0.69
+pgd,raw,7413,1,Trouser,1000,0.963,0.911
+pgd,raw,7413,2,Pullover,1000,0.664,0.483
+pgd,raw,7413,3,Dress,1000,0.912,0.711
+pgd,raw,7413,4,Coat,1000,0.801,0.558
+pgd,raw,7413,5,Sandal,1000,0.901,0.772
+pgd,raw,7413,6,Shirt,1000,0.308,0.113
+pgd,raw,7413,7,Sneaker,1000,0.891,0.75
+pgd,raw,7413,8,Bag,1000,0.955,0.86
+pgd,raw,7413,9,Ankle boot,1000,0.936,0.856
+curriculum_mixed,raw,7414,0,T-shirt/top,1000,0.874,0.679
+curriculum_mixed,raw,7414,1,Trouser,1000,0.966,0.91
+curriculum_mixed,raw,7414,2,Pullover,1000,0.714,0.474
+curriculum_mixed,raw,7414,3,Dress,1000,0.905,0.695
+curriculum_mixed,raw,7414,4,Coat,1000,0.799,0.537
+curriculum_mixed,raw,7414,5,Sandal,1000,0.927,0.756
+curriculum_mixed,raw,7414,6,Shirt,1000,0.407,0.214
+curriculum_mixed,raw,7414,7,Sneaker,1000,0.901,0.745
+curriculum_mixed,raw,7414,8,Bag,1000,0.97,0.872
+curriculum_mixed,raw,7414,9,Ankle boot,1000,0.943,0.855
+curriculum_mixed,average,7414,0,T-shirt/top,1000,0.876,0.678
+curriculum_mixed,average,7414,1,Trouser,1000,0.967,0.912
+curriculum_mixed,average,7414,2,Pullover,1000,0.712,0.47
+curriculum_mixed,average,7414,3,Dress,1000,0.905,0.687
+curriculum_mixed,average,7414,4,Coat,1000,0.801,0.544
+curriculum_mixed,average,7414,5,Sandal,1000,0.928,0.756
+curriculum_mixed,average,7414,6,Shirt,1000,0.401,0.2
+curriculum_mixed,average,7414,7,Sneaker,1000,0.902,0.746
+curriculum_mixed,average,7414,8,Bag,1000,0.971,0.876
+curriculum_mixed,average,7414,9,Ankle boot,1000,0.943,0.854
+consistency,raw,7414,0,T-shirt/top,1000,0.847,0.682
+consistency,raw,7414,1,Trouser,1000,0.962,0.909
+consistency,raw,7414,2,Pullover,1000,0.691,0.475
+consistency,raw,7414,3,Dress,1000,0.909,0.722
+consistency,raw,7414,4,Coat,1000,0.781,0.523
+consistency,raw,7414,5,Sandal,1000,0.91,0.789
+consistency,raw,7414,6,Shirt,1000,0.38,0.173
+consistency,raw,7414,7,Sneaker,1000,0.886,0.743
+consistency,raw,7414,8,Bag,1000,0.959,0.867
+consistency,raw,7414,9,Ankle boot,1000,0.933,0.864
+consistency,average,7414,0,T-shirt/top,1000,0.847,0.679
+consistency,average,7414,1,Trouser,1000,0.963,0.916
+consistency,average,7414,2,Pullover,1000,0.692,0.482
+consistency,average,7414,3,Dress,1000,0.91,0.709
+consistency,average,7414,4,Coat,1000,0.779,0.521
+consistency,average,7414,5,Sandal,1000,0.91,0.786
+consistency,average,7414,6,Shirt,1000,0.376,0.16
+consistency,average,7414,7,Sneaker,1000,0.886,0.747
+consistency,average,7414,8,Bag,1000,0.962,0.874
+consistency,average,7414,9,Ankle boot,1000,0.932,0.861
+proposed,raw,7414,0,T-shirt/top,1000,0.858,0.676
+proposed,raw,7414,1,Trouser,1000,0.964,0.917
+proposed,raw,7414,2,Pullover,1000,0.691,0.474
+proposed,raw,7414,3,Dress,1000,0.915,0.716
+proposed,raw,7414,4,Coat,1000,0.789,0.547
+proposed,raw,7414,5,Sandal,1000,0.916,0.778
+proposed,raw,7414,6,Shirt,1000,0.403,0.222
+proposed,raw,7414,7,Sneaker,1000,0.892,0.74
+proposed,raw,7414,8,Bag,1000,0.967,0.885
+proposed,raw,7414,9,Ankle boot,1000,0.936,0.865
+proposed,average,7414,0,T-shirt/top,1000,0.855,0.678
+proposed,average,7414,1,Trouser,1000,0.964,0.917
+proposed,average,7414,2,Pullover,1000,0.691,0.475
+proposed,average,7414,3,Dress,1000,0.913,0.71
+proposed,average,7414,4,Coat,1000,0.794,0.555
+proposed,average,7414,5,Sandal,1000,0.916,0.776
+proposed,average,7414,6,Shirt,1000,0.398,0.214
+proposed,average,7414,7,Sneaker,1000,0.892,0.743
+proposed,average,7414,8,Bag,1000,0.967,0.887
+proposed,average,7414,9,Ankle boot,1000,0.934,0.863
+standard,raw,7414,0,T-shirt/top,1000,0.859,0.0
+standard,raw,7414,1,Trouser,1000,0.97,0.006
+standard,raw,7414,2,Pullover,1000,0.816,0.0
+standard,raw,7414,3,Dress,1000,0.892,0.001
+standard,raw,7414,4,Coat,1000,0.82,0.0
+standard,raw,7414,5,Sandal,1000,0.96,0.001
+standard,raw,7414,6,Shirt,1000,0.735,0.0
+standard,raw,7414,7,Sneaker,1000,0.962,0.0
+standard,raw,7414,8,Bag,1000,0.967,0.046
+standard,raw,7414,9,Ankle boot,1000,0.962,0.026
+pgd,raw,7414,0,T-shirt/top,1000,0.863,0.686
+pgd,raw,7414,1,Trouser,1000,0.962,0.912
+pgd,raw,7414,2,Pullover,1000,0.651,0.487
+pgd,raw,7414,3,Dress,1000,0.913,0.707
+pgd,raw,7414,4,Coat,1000,0.801,0.564
+pgd,raw,7414,5,Sandal,1000,0.897,0.77
+pgd,raw,7414,6,Shirt,1000,0.324,0.115
+pgd,raw,7414,7,Sneaker,1000,0.892,0.747
+pgd,raw,7414,8,Bag,1000,0.957,0.872
+pgd,raw,7414,9,Ankle boot,1000,0.931,0.865
+mixed,raw,7414,0,T-shirt/top,1000,0.869,0.676
+mixed,raw,7414,1,Trouser,1000,0.966,0.914
+mixed,raw,7414,2,Pullover,1000,0.699,0.469
+mixed,raw,7414,3,Dress,1000,0.908,0.689
+mixed,raw,7414,4,Coat,1000,0.785,0.529
+mixed,raw,7414,5,Sandal,1000,0.919,0.771
+mixed,raw,7414,6,Shirt,1000,0.403,0.201
+mixed,raw,7414,7,Sneaker,1000,0.904,0.751
+mixed,raw,7414,8,Bag,1000,0.965,0.873
+mixed,raw,7414,9,Ankle boot,1000,0.94,0.86
+mixed,average,7414,0,T-shirt/top,1000,0.869,0.683
+mixed,average,7414,1,Trouser,1000,0.967,0.916
+mixed,average,7414,2,Pullover,1000,0.703,0.471
+mixed,average,7414,3,Dress,1000,0.904,0.681
+mixed,average,7414,4,Coat,1000,0.785,0.533
+mixed,average,7414,5,Sandal,1000,0.915,0.771
+mixed,average,7414,6,Shirt,1000,0.395,0.197
+mixed,average,7414,7,Sneaker,1000,0.904,0.755
+mixed,average,7414,8,Bag,1000,0.964,0.874
+mixed,average,7414,9,Ankle boot,1000,0.937,0.859
+consistency,raw,7415,0,T-shirt/top,1000,0.849,0.678
+consistency,raw,7415,1,Trouser,1000,0.965,0.915
+consistency,raw,7415,2,Pullover,1000,0.674,0.477
+consistency,raw,7415,3,Dress,1000,0.908,0.692
+consistency,raw,7415,4,Coat,1000,0.787,0.545
+consistency,raw,7415,5,Sandal,1000,0.906,0.789
+consistency,raw,7415,6,Shirt,1000,0.385,0.195
+consistency,raw,7415,7,Sneaker,1000,0.891,0.753
+consistency,raw,7415,8,Bag,1000,0.957,0.861
+consistency,raw,7415,9,Ankle boot,1000,0.933,0.861
+consistency,average,7415,0,T-shirt/top,1000,0.853,0.675
+consistency,average,7415,1,Trouser,1000,0.965,0.916
+consistency,average,7415,2,Pullover,1000,0.677,0.489
+consistency,average,7415,3,Dress,1000,0.908,0.691
+consistency,average,7415,4,Coat,1000,0.804,0.556
+consistency,average,7415,5,Sandal,1000,0.905,0.782
+consistency,average,7415,6,Shirt,1000,0.373,0.153
+consistency,average,7415,7,Sneaker,1000,0.891,0.747
+consistency,average,7415,8,Bag,1000,0.954,0.862
+consistency,average,7415,9,Ankle boot,1000,0.935,0.868
+proposed,raw,7415,0,T-shirt/top,1000,0.865,0.68
+proposed,raw,7415,1,Trouser,1000,0.964,0.92
+proposed,raw,7415,2,Pullover,1000,0.694,0.474
+proposed,raw,7415,3,Dress,1000,0.907,0.704
+proposed,raw,7415,4,Coat,1000,0.792,0.552
+proposed,raw,7415,5,Sandal,1000,0.91,0.778
+proposed,raw,7415,6,Shirt,1000,0.401,0.219
+proposed,raw,7415,7,Sneaker,1000,0.894,0.74
+proposed,raw,7415,8,Bag,1000,0.963,0.883
+proposed,raw,7415,9,Ankle boot,1000,0.932,0.861
+proposed,average,7415,0,T-shirt/top,1000,0.863,0.679
+proposed,average,7415,1,Trouser,1000,0.964,0.92
+proposed,average,7415,2,Pullover,1000,0.693,0.474
+proposed,average,7415,3,Dress,1000,0.909,0.708
+proposed,average,7415,4,Coat,1000,0.798,0.561
+proposed,average,7415,5,Sandal,1000,0.907,0.779
+proposed,average,7415,6,Shirt,1000,0.382,0.189
+proposed,average,7415,7,Sneaker,1000,0.893,0.739
+proposed,average,7415,8,Bag,1000,0.963,0.881
+proposed,average,7415,9,Ankle boot,1000,0.936,0.868
+standard,raw,7415,0,T-shirt/top,1000,0.843,0.0
+standard,raw,7415,1,Trouser,1000,0.972,0.074
+standard,raw,7415,2,Pullover,1000,0.809,0.0
+standard,raw,7415,3,Dress,1000,0.899,0.0
+standard,raw,7415,4,Coat,1000,0.836,0.0
+standard,raw,7415,5,Sandal,1000,0.967,0.004
+standard,raw,7415,6,Shirt,1000,0.718,0.0
+standard,raw,7415,7,Sneaker,1000,0.957,0.0
+standard,raw,7415,8,Bag,1000,0.968,0.039
+standard,raw,7415,9,Ankle boot,1000,0.958,0.016
+pgd,raw,7415,0,T-shirt/top,1000,0.863,0.682
+pgd,raw,7415,1,Trouser,1000,0.964,0.911
+pgd,raw,7415,2,Pullover,1000,0.663,0.473
+pgd,raw,7415,3,Dress,1000,0.909,0.711
+pgd,raw,7415,4,Coat,1000,0.8,0.578
+pgd,raw,7415,5,Sandal,1000,0.9,0.758
+pgd,raw,7415,6,Shirt,1000,0.32,0.097
+pgd,raw,7415,7,Sneaker,1000,0.893,0.743
+pgd,raw,7415,8,Bag,1000,0.956,0.858
+pgd,raw,7415,9,Ankle boot,1000,0.936,0.861
+mixed,raw,7415,0,T-shirt/top,1000,0.864,0.677
+mixed,raw,7415,1,Trouser,1000,0.965,0.914
+mixed,raw,7415,2,Pullover,1000,0.693,0.461
+mixed,raw,7415,3,Dress,1000,0.897,0.666
+mixed,raw,7415,4,Coat,1000,0.799,0.545
+mixed,raw,7415,5,Sandal,1000,0.913,0.773
+mixed,raw,7415,6,Shirt,1000,0.408,0.21
+mixed,raw,7415,7,Sneaker,1000,0.905,0.748
+mixed,raw,7415,8,Bag,1000,0.961,0.864
+mixed,raw,7415,9,Ankle boot,1000,0.938,0.859
+mixed,average,7415,0,T-shirt/top,1000,0.867,0.676
+mixed,average,7415,1,Trouser,1000,0.967,0.915
+mixed,average,7415,2,Pullover,1000,0.698,0.478
+mixed,average,7415,3,Dress,1000,0.899,0.669
+mixed,average,7415,4,Coat,1000,0.805,0.544
+mixed,average,7415,5,Sandal,1000,0.914,0.774
+mixed,average,7415,6,Shirt,1000,0.383,0.18
+mixed,average,7415,7,Sneaker,1000,0.904,0.746
+mixed,average,7415,8,Bag,1000,0.961,0.862
+mixed,average,7415,9,Ankle boot,1000,0.939,0.861
+curriculum_mixed,raw,7415,0,T-shirt/top,1000,0.879,0.68
+curriculum_mixed,raw,7415,1,Trouser,1000,0.969,0.914
+curriculum_mixed,raw,7415,2,Pullover,1000,0.699,0.459
+curriculum_mixed,raw,7415,3,Dress,1000,0.907,0.679
+curriculum_mixed,raw,7415,4,Coat,1000,0.8,0.549
+curriculum_mixed,raw,7415,5,Sandal,1000,0.925,0.76
+curriculum_mixed,raw,7415,6,Shirt,1000,0.413,0.221
+curriculum_mixed,raw,7415,7,Sneaker,1000,0.905,0.739
+curriculum_mixed,raw,7415,8,Bag,1000,0.97,0.88
+curriculum_mixed,raw,7415,9,Ankle boot,1000,0.94,0.855
+curriculum_mixed,average,7415,0,T-shirt/top,1000,0.879,0.683
+curriculum_mixed,average,7415,1,Trouser,1000,0.969,0.914
+curriculum_mixed,average,7415,2,Pullover,1000,0.7,0.471
+curriculum_mixed,average,7415,3,Dress,1000,0.908,0.677
+curriculum_mixed,average,7415,4,Coat,1000,0.808,0.551
+curriculum_mixed,average,7415,5,Sandal,1000,0.925,0.759
+curriculum_mixed,average,7415,6,Shirt,1000,0.391,0.188
+curriculum_mixed,average,7415,7,Sneaker,1000,0.901,0.733
+curriculum_mixed,average,7415,8,Bag,1000,0.965,0.873
+curriculum_mixed,average,7415,9,Ankle boot,1000,0.944,0.86

@@ -1,0 +1,9 @@
+{
+  "seed": 7404,
+  "stratification": "500 validation examples per class",
+  "training_examples": 55000,
+  "validation_examples": 5000,
+  "train_indices_sha256": "ce578c5068a08850843c20b6f5e34c8ce23f12728d5bfce9f193f5dc7622c5b7",
+  "validation_indices_sha256": "6d8b932b956d3171bc42534220d98a89caba54729e521b0bd8b3b1048bf56b0b",
+  "preprocessing": "uint8 / 255, pixels in [0,1]; no augmentation or normalization"
+}

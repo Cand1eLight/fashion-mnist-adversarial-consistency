@@ -1,0 +1,19 @@
+{
+  "pixel_bounds": true,
+  "linf_projection": true,
+  "parameter_unchanged": true,
+  "parameter_gradients_untouched": true,
+  "repeatability": true,
+  "epsilon_zero": true,
+  "independent_pgd_agreement": true,
+  "parameters": 235146,
+  "max_perturbation": 0.10000002384185791,
+  "kl_attack_projection": true,
+  "kl_attack_parameter_gradients_untouched": true,
+  "consistency_matches_independent_formula": true,
+  "consistency_identity": true,
+  "consistency_gradients_reach_both_branches": true,
+  "train_validation_disjoint": true,
+  "split_covers_original_training_only": true,
+  "arithmetic_average_matches_reference": true
+}

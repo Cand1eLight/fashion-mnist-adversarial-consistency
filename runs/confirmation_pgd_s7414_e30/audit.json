@@ -1,0 +1,57 @@
+{
+  "audit": {
+    "method": "pgd",
+    "seed": 7414,
+    "n": 10000,
+    "official_pgd20": 0.6725,
+    "ce50_3restart": 0.6664,
+    "margin50_3restart": 0.6654,
+    "combined": 0.6557,
+    "combined_correct": 6557,
+    "additional_failures": 168,
+    "max_linf_ce": 0.10000002384185791,
+    "max_linf_margin": 0.10000002384185791
+  },
+  "sweep": [
+    {
+      "method": "pgd",
+      "seed": 7414,
+      "epsilon": 0.0,
+      "accuracy": 0.8191,
+      "correct": 8191,
+      "n": 10000
+    },
+    {
+      "method": "pgd",
+      "seed": 7414,
+      "epsilon": 0.05,
+      "accuracy": 0.7616,
+      "correct": 7616,
+      "n": 10000
+    },
+    {
+      "method": "pgd",
+      "seed": 7414,
+      "epsilon": 0.1,
+      "accuracy": 0.6693,
+      "correct": 6693,
+      "n": 10000
+    },
+    {
+      "method": "pgd",
+      "seed": 7414,
+      "epsilon": 0.15,
+      "accuracy": 0.5271,
+      "correct": 5271,
+      "n": 10000
+    },
+    {
+      "method": "pgd",
+      "seed": 7414,
+      "epsilon": 0.2,
+      "accuracy": 0.2855,
+      "correct": 2855,
+      "n": 10000
+    }
+  ]
+}

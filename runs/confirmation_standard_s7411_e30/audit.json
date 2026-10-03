@@ -1,0 +1,57 @@
+{
+  "audit": {
+    "method": "standard",
+    "seed": 7411,
+    "n": 10000,
+    "official_pgd20": 0.0078,
+    "ce50_3restart": 0.0061,
+    "margin50_3restart": 0.0076,
+    "combined": 0.0059,
+    "combined_correct": 59,
+    "additional_failures": 19,
+    "max_linf_ce": 0.10000002384185791,
+    "max_linf_margin": 0.10000002384185791
+  },
+  "sweep": [
+    {
+      "method": "standard",
+      "seed": 7411,
+      "epsilon": 0.0,
+      "accuracy": 0.8952,
+      "correct": 8952,
+      "n": 10000
+    },
+    {
+      "method": "standard",
+      "seed": 7411,
+      "epsilon": 0.05,
+      "accuracy": 0.2101,
+      "correct": 2101,
+      "n": 10000
+    },
+    {
+      "method": "standard",
+      "seed": 7411,
+      "epsilon": 0.1,
+      "accuracy": 0.0066,
+      "correct": 66,
+      "n": 10000
+    },
+    {
+      "method": "standard",
+      "seed": 7411,
+      "epsilon": 0.15,
+      "accuracy": 0.0001,
+      "correct": 1,
+      "n": 10000
+    },
+    {
+      "method": "standard",
+      "seed": 7411,
+      "epsilon": 0.2,
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 10000
+    }
+  ]
+}

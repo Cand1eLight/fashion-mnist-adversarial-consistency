@@ -1,0 +1,73 @@
+{
+  "reference_run": "confirmation_proposed_s7411_e30",
+  "fresh_run": "reproduction_proposed_s7411_e30",
+  "fresh_directory": "D:\\Assignment\\Coursework1_MC647418_revised\\tmp\\independent_reproduction",
+  "seed": 7411,
+  "epochs": 30,
+  "from_scratch": true,
+  "used_cached_weights": false,
+  "training_seconds": 58.3104332000039,
+  "versions": {
+    "raw": {
+      "parameter_tensors_bitwise_equal": true,
+      "tensors": 6,
+      "full_test_arrays_bitwise_equal": {
+        "label": true,
+        "clean_prediction": true,
+        "adversarial_prediction": true,
+        "attack_loss": true
+      },
+      "test_metrics": {
+        "n": 10000,
+        "clean_correct": 8326,
+        "robust_correct": 6788,
+        "clean_accuracy": 0.8325999975204468,
+        "pgd_accuracy": 0.6787999868392944,
+        "attack_seed": 9001,
+        "steps": 20,
+        "alpha": 0.01,
+        "epsilon": 0.1,
+        "restarts": 1,
+        "keep_best": false
+      },
+      "maximum_attack_loss_difference": 0.0
+    },
+    "average": {
+      "parameter_tensors_bitwise_equal": true,
+      "tensors": 6,
+      "full_test_arrays_bitwise_equal": {
+        "label": true,
+        "clean_prediction": true,
+        "adversarial_prediction": true,
+        "attack_loss": true
+      },
+      "test_metrics": {
+        "n": 10000,
+        "clean_correct": 8324,
+        "robust_correct": 6792,
+        "clean_accuracy": 0.8323999643325806,
+        "pgd_accuracy": 0.6791999936103821,
+        "attack_seed": 9001,
+        "steps": 20,
+        "alpha": 0.01,
+        "epsilon": 0.1,
+        "restarts": 1,
+        "keep_best": false
+      },
+      "maximum_attack_loss_difference": 0.0
+    }
+  },
+  "environment": {
+    "python": "3.12.14",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.2",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "gpu": "NVIDIA GeForce RTX 4060",
+    "cuda": "12.8",
+    "precision": "float32",
+    "tf32": false,
+    "deterministic_algorithms": true,
+    "cpu_threads": 4
+  },
+  "test_configuration_changed": false
+}

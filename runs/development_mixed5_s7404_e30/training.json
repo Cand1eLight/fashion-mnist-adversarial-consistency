@@ -1,0 +1,281 @@
+{
+  "config": {
+    "tag": "mixed5",
+    "objective": "mixed",
+    "seed": 7404,
+    "epochs": 30,
+    "batch_size": 256,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "steps": 5,
+    "beta": 2.0,
+    "clean_weight": 0.25,
+    "ramp_epochs": 0,
+    "averaging": "none",
+    "ema_decay": 0.995,
+    "average_start": 5,
+    "stage": "development",
+    "trace_validation": false
+  },
+  "environment": {
+    "python": "3.12.14",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.2",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "gpu": "NVIDIA GeForce RTX 4060",
+    "cuda": "12.8",
+    "precision": "float32",
+    "tf32": false,
+    "deterministic_algorithms": true,
+    "cpu_threads": 4
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 1.1896617412567139,
+      "lr": 0.001,
+      "epsilon": 0.1,
+      "seconds": 1.5027515000001586,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 2,
+      "loss": 0.9074383974075317,
+      "lr": 0.0009972883382072953,
+      "epsilon": 0.1,
+      "seconds": 1.4128498999998556,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 3,
+      "loss": 0.851327121257782,
+      "lr": 0.0009891830623632338,
+      "epsilon": 0.1,
+      "seconds": 1.4217380999980378,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 4,
+      "loss": 0.8205073475837708,
+      "lr": 0.0009757729755661011,
+      "epsilon": 0.1,
+      "seconds": 1.396143199999642,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 5,
+      "loss": 0.7968763113021851,
+      "lr": 0.0009572050015330874,
+      "epsilon": 0.1,
+      "seconds": 1.4375116000010166,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 6,
+      "loss": 0.7846872806549072,
+      "lr": 0.0009336825748732973,
+      "epsilon": 0.1,
+      "seconds": 1.4338505000014266,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 7,
+      "loss": 0.7673215866088867,
+      "lr": 0.0009054634122155991,
+      "epsilon": 0.1,
+      "seconds": 1.413190699997358,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 8,
+      "loss": 0.758293092250824,
+      "lr": 0.0008728566886113102,
+      "epsilon": 0.1,
+      "seconds": 1.4142844999987574,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 9,
+      "loss": 0.7491450905799866,
+      "lr": 0.0008362196501476349,
+      "epsilon": 0.1,
+      "seconds": 1.3946694999976899,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 10,
+      "loss": 0.7398262619972229,
+      "lr": 0.0007959536998847742,
+      "epsilon": 0.1,
+      "seconds": 1.4667334000005212,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 11,
+      "loss": 0.7342727184295654,
+      "lr": 0.0007525,
+      "epsilon": 0.1,
+      "seconds": 1.3890212000005704,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 12,
+      "loss": 0.7311505675315857,
+      "lr": 0.0007063346383225212,
+      "epsilon": 0.1,
+      "seconds": 1.4024169000003894,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 13,
+      "loss": 0.7235821485519409,
+      "lr": 0.000657963412215599,
+      "epsilon": 0.1,
+      "seconds": 1.4024067999998806,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 14,
+      "loss": 0.7175177931785583,
+      "lr": 0.0006079162869547909,
+      "epsilon": 0.1,
+      "seconds": 1.5091391000023577,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 15,
+      "loss": 0.7131131887435913,
+      "lr": 0.0005567415893174886,
+      "epsilon": 0.1,
+      "seconds": 1.4363942999989376,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 16,
+      "loss": 0.7093520164489746,
+      "lr": 0.0005050000000000002,
+      "epsilon": 0.1,
+      "seconds": 1.4150158000011288,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 17,
+      "loss": 0.7050998210906982,
+      "lr": 0.0004532584106825117,
+      "epsilon": 0.1,
+      "seconds": 1.4157478000015544,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 18,
+      "loss": 0.702567458152771,
+      "lr": 0.00040208371304520916,
+      "epsilon": 0.1,
+      "seconds": 1.5275364000008267,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 19,
+      "loss": 0.6984667181968689,
+      "lr": 0.00035203658778440114,
+      "epsilon": 0.1,
+      "seconds": 1.5763201000008848,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 20,
+      "loss": 0.6959987282752991,
+      "lr": 0.000303665361677479,
+      "epsilon": 0.1,
+      "seconds": 1.568964699999924,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 21,
+      "loss": 0.692689061164856,
+      "lr": 0.0002575000000000002,
+      "epsilon": 0.1,
+      "seconds": 1.4215307000013127,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 22,
+      "loss": 0.6895524263381958,
+      "lr": 0.0002140463001152259,
+      "epsilon": 0.1,
+      "seconds": 1.4018723000008322,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 23,
+      "loss": 0.6873413920402527,
+      "lr": 0.00017378034985236537,
+      "epsilon": 0.1,
+      "seconds": 1.4455028000011225,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 24,
+      "loss": 0.6856083869934082,
+      "lr": 0.00013714331138868995,
+      "epsilon": 0.1,
+      "seconds": 1.4361547000007704,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 25,
+      "loss": 0.6833740472793579,
+      "lr": 0.00010453658778440111,
+      "epsilon": 0.1,
+      "seconds": 1.4070596999990812,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 26,
+      "loss": 0.6822028756141663,
+      "lr": 7.631742512670288e-05,
+      "epsilon": 0.1,
+      "seconds": 1.4647224000000278,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 27,
+      "loss": 0.6809394955635071,
+      "lr": 5.279499846691254e-05,
+      "epsilon": 0.1,
+      "seconds": 1.400326999999379,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 28,
+      "loss": 0.6798722147941589,
+      "lr": 3.422702443389901e-05,
+      "epsilon": 0.1,
+      "seconds": 1.3754899999985355,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 29,
+      "loss": 0.6791682243347168,
+      "lr": 2.0816937636766188e-05,
+      "epsilon": 0.1,
+      "seconds": 1.3963708000010229,
+      "mean_attack_steps": 5
+    },
+    {
+      "epoch": 30,
+      "loss": 0.6787378191947937,
+      "lr": 1.2711661792704668e-05,
+      "epsilon": 0.1,
+      "seconds": 1.487926800000423,
+      "mean_attack_steps": 5
+    }
+  ],
+  "training_seconds": 43.196495300002425,
+  "epochs": 30,
+  "mean_epoch_seconds": 1.4391214400001142,
+  "diagnostic_validation_seconds": 0.0,
+  "mean_attack_steps": 5,
+  "timing": "Synchronized wall time of all optimization, attack generation, parameter averaging, epoch logs and updates; excludes preparation, warmup, diagnostic validation and checkpoint serialization",
+  "checkpoint_sha256": "cadf2174fc3848d8dcc66a6ef28b8c7ee08918b1b2e993036f1e528503d99d20"
+}

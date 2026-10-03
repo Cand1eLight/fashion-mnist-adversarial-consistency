@@ -1,0 +1,8 @@
+{
+  "completed_at_utc": "2026-10-02T08:57:59.948747+00:00",
+  "frozen_protocol_sha256": "a8eac06da0bc33624e0db0acdff7f65a9ab8a032f44d4b2b5af71c247a4f2c8b",
+  "configuration_changed_after_test_evaluation": false,
+  "models": 50,
+  "independent_training_runs": 30,
+  "test_examples_per_model": 10000
+}

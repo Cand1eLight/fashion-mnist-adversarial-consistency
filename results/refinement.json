@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "mixed5_ramp10_swa20",
+    "training_seconds": 45.712871800002176,
+    "validation_clean": 0.849,
+    "validation_pgd20": 0.6748
+  },
+  {
+    "tag": "hybrid_b025",
+    "training_seconds": 60.46558839999852,
+    "validation_clean": 0.8408,
+    "validation_pgd20": 0.6752
+  },
+  {
+    "tag": "hybrid_b025_ramp10",
+    "training_seconds": 53.736666000000696,
+    "validation_clean": 0.848,
+    "validation_pgd20": 0.68
+  },
+  {
+    "tag": "hybrid_b025_swa20",
+    "training_seconds": 53.8292784999976,
+    "validation_clean": 0.84,
+    "validation_pgd20": 0.6742
+  },
+  {
+    "tag": "hybrid_b025_ramp10_swa20",
+    "training_seconds": 50.10191439999835,
+    "validation_clean": 0.8456,
+    "validation_pgd20": 0.678
+  },
+  {
+    "tag": "hybrid_b05_ramp10_swa20",
+    "training_seconds": 48.819280399999116,
+    "validation_clean": 0.8418,
+    "validation_pgd20": 0.6818
+  },
+  {
+    "tag": "gated_b05_ramp10_swa20",
+    "training_seconds": 48.520205500000884,
+    "validation_clean": 0.848,
+    "validation_pgd20": 0.6766
+  },
+  {
+    "tag": "gated_b1_ramp10_swa20",
+    "training_seconds": 70.1531193999981,
+    "validation_clean": 0.8398,
+    "validation_pgd20": 0.6808
+  }
+]

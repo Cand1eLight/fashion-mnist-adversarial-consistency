@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Gained",
+    "test_index": 7,
+    "true": "Shirt",
+    "pgd_attack_prediction": "Coat",
+    "proposed_attack_prediction": "Shirt",
+    "linf": 0.10000002384185791
+  },
+  {
+    "category": "Lost",
+    "test_index": 67,
+    "true": "Dress",
+    "pgd_attack_prediction": "Dress",
+    "proposed_attack_prediction": "Coat",
+    "linf": 0.10000002384185791
+  },
+  {
+    "category": "Shared failure",
+    "test_index": 0,
+    "true": "Ankle boot",
+    "pgd_attack_prediction": "Sneaker",
+    "proposed_attack_prediction": "Sneaker",
+    "linf": 0.10000002384185791
+  },
+  {
+    "category": "Shared success",
+    "test_index": 1,
+    "true": "Pullover",
+    "pgd_attack_prediction": "Pullover",
+    "proposed_attack_prediction": "Pullover",
+    "linf": 0.10000002384185791
+  }
+]
